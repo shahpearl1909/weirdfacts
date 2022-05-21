@@ -1,0 +1,14 @@
+h1{
+    background-color:rgb(218, 252, 214);
+}
+img{
+    border: 10px;
+    border-style:double;
+    border-color: darkred;
+}
+h3{
+    color:rgb(157, 164, 221)
+}
+span{
+    color: darkgoldenrod;
+}
